@@ -1,0 +1,14 @@
+C:\Users\Serj\source\repos\DayZ\DayZ\bin\Debug\net6.0\DayZ.exe
+C:\Users\Serj\source\repos\DayZ\DayZ\bin\Debug\net6.0\DayZ.deps.json
+C:\Users\Serj\source\repos\DayZ\DayZ\bin\Debug\net6.0\DayZ.runtimeconfig.json
+C:\Users\Serj\source\repos\DayZ\DayZ\bin\Debug\net6.0\DayZ.dll
+C:\Users\Serj\source\repos\DayZ\DayZ\bin\Debug\net6.0\DayZ.pdb
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\DayZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\DayZ.AssemblyInfoInputs.cache
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\DayZ.AssemblyInfo.cs
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\DayZ.csproj.CoreCompileInputs.cache
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\DayZ.dll
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\refint\DayZ.dll
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\DayZ.pdb
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\DayZ.genruntimeconfig.cache
+C:\Users\Serj\source\repos\DayZ\DayZ\obj\Debug\net6.0\ref\DayZ.dll
